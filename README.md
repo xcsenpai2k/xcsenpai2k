@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Xuan Chung</h1>
-<h3 align="center">I'm learning Laravel - Vuejs</h3>
+<h3 align="center">I'm currently working with PHP - Laravel</h3>
 
 - 🌱 I’m currently learning **Vuejs**
 
